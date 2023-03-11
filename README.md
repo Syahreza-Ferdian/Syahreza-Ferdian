@@ -42,6 +42,14 @@ Hobbies:
    Listening to music
 }
 ```
+## S T A T S
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Syahreza-Ferdian&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+</a>
+
 
 <p align = "Center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&rotate=180" />
