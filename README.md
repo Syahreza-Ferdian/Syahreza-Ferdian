@@ -12,7 +12,6 @@
 
 > On this account, you'll find several repositories which contain some assignment and exercises that I made in learning programming Language, mainly Java. 
 
-<br></br>
 ### $${\color{red}WARNING}$$
 ```yaml
 ======[WARNING FOR VISITORS: If you know me, and are doing the same college assignment, please do NOT copy exactly the same as what's in my repository]=======
