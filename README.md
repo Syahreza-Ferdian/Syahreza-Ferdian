@@ -1,15 +1,23 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=scaleIn&type=waving&color=timeAuto&height=200&fontAlign=63&stroke=00FF00&fontAlignY=35&fontSize=90&desc=Welcome%20to%20My%20Github%20Account&descAlign=77"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hello%20Everyone!&animation=scaleIn&type=waving&color=timeAuto&height=150&fontAlign=50&stroke=FFFFFF&fontAlignY=40&fontSize=70"/>
+</p>
+
+<h1 align = "center"><b>Welcome to My Github Profile</b></h1>
+<p align = "center">
+  <img src = "https://i.postimg.cc/Sx2pgCTx/hello-World.gif" />
 </p>
 
 ## About This Profile
-```yaml
-On this account, you'll find several repositories which contain some assignment and exercises that I made in learning 
-programming Language, mainly Java. 
 
-==============[WARNING FOR VISITORS: If it's a college assignment, do NOT copy exactly the same as what's in my repository]==================
+> On this account, you'll find several repositories which contain some assignment and exercises that I made in learning programming Language, mainly Java. 
+
+<br></br>
+### $${\color{red}WARNING}$$
+```yaml
+======[WARNING FOR VISITORS: If you know me, and are doing the same college assignment, please do NOT copy exactly the same as what's in my repository]=======
 ```
+
 ## About Me
 ```yaml
 Firstname: Syahreza
