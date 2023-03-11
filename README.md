@@ -14,7 +14,8 @@
 
 ### $${\color{red}WARNING}$$
 ```yaml
-WARNING FOR VISITORS: If you know me, and are doing the same college assignment, please do NOT copy exactly the same as what's in my repository
+WARNING FOR VISITORS: If you know me, and are doing the same college assignment, please do NOT copy exactly the same as what's in my repository!
+SUGGESTION: If you are lazy enough to change everything, at least you can change the variable and method names
 ```
 
 ## About Me
