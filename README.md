@@ -53,5 +53,5 @@ Hobbies:
 
 
 <p align = "Center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&rotate=180" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&rotate=180" />
 </p>
