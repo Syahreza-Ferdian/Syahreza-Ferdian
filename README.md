@@ -1,57 +1,26 @@
+<h1 align="center">Hello 👋, I'm Syahreza Fisti Ferdian</h1>
+<h3 align="center">A part time learner, full time gamer</h3>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello%20Everyone!&animation=scaleIn&type=waving&color=timeAuto&height=150&fontAlign=50&stroke=FFFFFF&fontAlignY=40&fontSize=70"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=syahreza-ferdian&label=Profile%20views&color=0e75b6&style=flat" alt="syahreza-ferdian" /> </p>
+
+- 🌱 I’m currently learning **Java, HTML & CSS, Pawn, C & C++, and Python**
+
+- 📝 Kindly Visit my Website at [syahreza.online](https://syahreza.online/)
+
+- 📫 How to reach me **syahrezafistiferdian32@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://stackoverflow.com/users/20017095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20017095" height="30" width="40" /></a>
+<a href="https://instagram.com/syahrezaaff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syahrezaaff" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/syahrezaferdian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="syahrezaferdian" height="30" width="40" /></a>
 </p>
 
-<h1 align = "center"><b>Welcome to My Github Profile</b></h1>
-<p align = "center">
-  <img src = "https://i.postimg.cc/Sx2pgCTx/hello-World.gif" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## About This Profile
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syahreza-ferdian&show_icons=true&theme=dark&locale=en&layout=compact" alt="syahreza-ferdian" /></p>
 
-> On this account, you'll find several repositories which contain some assignment and exercises that I made in learning programming Language, mainly Java. 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syahreza-ferdian&show_icons=true&theme=dark&locale=en" alt="syahreza-ferdian" /></p>
 
-### $${\color{red}WARNING}$$
-```yaml
-WARNING FOR VISITORS: If you know me, and are doing the same college assignment, please do NOT copy exactly the same as what's in my repository!
-SUGGESTION: If you are lazy enough to change everything, at least you can change the variable and method names
-```
-
-## About Me
-```yaml
-Firstname: Syahreza
-Middlename: Fisti
-Lastname: Ferdian
-
-Address: Jl. Wedarijaksa-Jetak Km 02, Jatimulyo, Kec. Wedarijaksa, Kab. Pati, Jawa Tengah
-Current Address: Jl. Sigura-gura VI No. 15, Malang, Jawa Timur
-Educations:
-{
-   SMAN 1 Pati (2019 - 2022)
-   Universitas Brawijaya, Fakultas Ilmu Komputer, Prodi Teknologi Informasi
-}
-Currently Learning:
-{
-   Java
-   C and C++
-   HTML
-}
-Hobbies:
-{
-   Gaming sampe mampus
-   Listening to music
-}
-```
-## S T A T S
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Syahreza-Ferdian&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syahreza-Ferdian&layout=compact" />
-</a>
-
-
-<p align = "Center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&rotate=180" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syahreza-ferdian&theme=dark" alt="syahreza-ferdian" /></p>
