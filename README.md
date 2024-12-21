@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, HTML & CSS, Pawn, C & C++, Python, PHP, and Golang**
 
-- 📝 Kindly visit my personal website at [syahrezaff.vercel.app](https://syahrezaff.vercel.app/)
+- 📝 Kindly visit my personal website at [syahreza.site](https://www.syahreza.site/)
 
 - 📫 How to reach me: **syahrezafistiferdian32@gmail.com**
 
