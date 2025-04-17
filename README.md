@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Java, HTML & CSS, Pawn, C & C++, Python, PHP, and Golang**
 
-- 📝 Kindly visit my personal website at [syahreza.site](https://www.syahreza.site/)
+- 📝 Kindly visit my personal website at [syahreza.site](https://syahreza.site/)
 
-- 📫 How to reach me: **syahrezafistiferdian32@gmail.com**
+- 📫 How to reach me: **me@syahreza.site**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
