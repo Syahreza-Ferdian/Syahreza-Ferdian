@@ -43,5 +43,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syahreza-ferdian&theme=dark" alt="syahreza-ferdian-github-streak-stats" /></p>
 
-<h3 align="left">GitHub Trophy:</h3>
+<h3 align="left">GitHub Trophies:</h3>
 <p><img align="left" src="https://github-profile-trophy.vercel.app/?username=Syahreza-Ferdian&theme=tokyonight&rank=-?" alt="syahreza-ferdian-github-trophy" /></p>
