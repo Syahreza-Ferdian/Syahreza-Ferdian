@@ -1,47 +1,108 @@
-<h1 align="center">Hello 👋, I'm Syahreza Fisti Ferdian</h1>
-<h3 align="center">Undergraduate Student of Information Technology passionate on Back End engineering</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syahreza-ferdian&label=Profile%20views&color=0e75b6&style=flat" alt="syahreza-ferdian" /> </p>
+# Hi there, I'm Syahreza Fisti Ferdian 👋
 
-- 🌱 I’m currently learning **Java, HTML & CSS, Pawn, C & C++, Python, PHP, and Golang**
+### Full Stack Software Engineer • Back End Enthusiast
 
-- 📝 Kindly visit my personal website at <a href="https://syahreza.site/" target="blank"><strong>syahreza.site</strong></a>
+<img src="https://komarev.com/ghpvc/?username=syahreza-ferdian&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
-- 📫 How to reach me: <a href="mailto:me@syahreza.site"><strong>me@syahreza.site</strong></a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🚀 About Me
+
+- 💼 Full Stack Software Engineer, now building Enterprise Resource Planning (**ERP**) systems for a manufacturing company
+- 🛠️ Working daily with **Laravel, Livewire, Inertia.js, React, TypeScript, MongoDB & PostgreSQL**
+- 📚 Proficient in **Golang, Java, Python, C/C++, Rust, WebAssembly & Pawn** — currently diving into **.NET**
+- 🌐 Personal site: [syahreza.my.id](https://syahreza.my.id/)
+- 📫 Reach me at: [me@syahreza.my.id](mailto:me@syahreza.my.id)
+- ⚡ Off the clock: chasing the perfect IEM sound signature and tinkering with self-hosted servers
+
+---
+
+### 🔗 Connect with Me
+
 <p align="left">
-<a href="https://stackoverflow.com/users/20017095" target="blank" title="Stack Overflow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20017095" height="30" width="40" /></a>
-<a href="https://instagram.com/syahrezaaff" target="blank" title="Instagram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syahrezaaff" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/syahrezaferdian" target="blank" title="HackerRank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="syahrezaferdian" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/syahreza-ferdian-b43647287/" target="blank" title="LinkedIn"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin_syahreza" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/20017095" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+  <a href="https://www.linkedin.com/in/syahreza-ferdian-b43647287/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.hackerrank.com/syahrezaferdian" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://instagram.com/syahrezaaff" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="Visual Studio Code"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://golang.org/" target="_blank" rel="noreferrer" title="Golang"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40"/> </a> 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer" title="Laravel"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" title="PostgreSQL"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer" title="Redis"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer" title="Java"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer" title="Vue"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/> </a>
-  <a href="https://vite.dev/" target="_blank" rel="noreferrer" title="Vite"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/> </a>
+---
+
+### 🧰 Languages & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" alt="php" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="Laravel" alt="laravel" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg" title="Livewire" alt="livewire" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="react" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" alt="typescript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" title="Vue" alt="vue" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="Vite" alt="vite" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="css3" width="40" height="40"/>
+</p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="mongodb" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="mysql" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" title="Redis" alt="redis" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="docker" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" title="Nginx" alt="nginx" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" alt="vscode" width="40" height="40"/>
+</p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" title="Golang" alt="golang" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="java" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" alt="c" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="cpp" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" title="Rust" alt="rust" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webassembly/webassembly-original.svg" title="WebAssembly" alt="webassembly" width="40" height="40"/>&nbsp; -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" title=".NET (learning)" alt="dotnet" width="40" height="40"/>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syahreza-ferdian&show_icons=true&theme=dark&locale=en" alt="syahreza-ferdian-github-stats" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syahreza-ferdian&show_icons=true&theme=dark&locale=en&layout=compact&include_all_commits=true" alt="syahreza-ferdian-github-top-langs" /></p>
+<!-- <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Syahreza-Ferdian&theme=darkhub&column=7&margin-w=10&margin-h=10&no-bg=true" alt="syahreza-ferdian github trophies" />
+</div> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syahreza-ferdian&theme=dark" alt="syahreza-ferdian-github-streak-stats" /></p>
+---
 
-<h3 align="left">GitHub Trophies:</h3>
-<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=Syahreza-Ferdian&theme=tokyonight&rank=-?" alt="syahreza-ferdian-github-trophy" /></p>
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Syahreza-Ferdian&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark" alt="syahreza-ferdian github stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=Syahreza-Ferdian&layout=compact&langs_count=6&theme=dark" alt="syahreza-ferdian top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syahreza-ferdian&theme=dark" alt="syahreza-ferdian github streak stats" />
+</div>
+
+---
+
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syahreza-Ferdian&theme=react-dark&area=true&hide_border=true" alt="syahreza-ferdian contribution activity graph" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Thanks for stopping by! ⭐️ Feel free to check out my repos or reach out.</sub>
+</div>
