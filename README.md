@@ -27,7 +27,7 @@
   <a href="https://stackoverflow.com/users/20017095" target="_blank">
     <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
   </a>
-  <a href="https://www.linkedin.com/in/syahreza-ferdian-b43647287/" target="_blank">
+  <a href="https://www.linkedin.com/in/syahreza-ferdian/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.hackerrank.com/syahrezaferdian" target="_blank">
