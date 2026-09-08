@@ -1,4 +1,4 @@
-name: GitHub Profile 3D Contrib
+name: GitHub Profile Stats
 
 on:
   schedule:
@@ -9,7 +9,7 @@ on:
       - main
 
 jobs:
-  build:
+  generate-3d-contrib:
     runs-on: ubuntu-latest
     name: Generate 3D Contribution Graph
 
@@ -21,10 +21,37 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: Syahreza-Ferdian
 
-      - name: Commit & Push
+      - name: Commit & Push 3D Contrib
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           git diff --cached --quiet || git commit -m "chore: update 3D contribution graph"
+          git push
+
+  generate-trophy:
+    runs-on: ubuntu-latest
+    name: Generate GitHub Trophy SVG
+    needs: generate-3d-contrib
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: Syahreza-Ferdian
+          output_path: trophy.svg
+          token: ${{ secrets.GH_TOKEN }}
+          theme: darkhub
+
+      - name: Commit & Push Trophy
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add trophy.svg
+          git diff --cached --quiet || git commit -m "chore: update github trophy"
           git push
