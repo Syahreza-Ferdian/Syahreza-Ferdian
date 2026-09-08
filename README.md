@@ -102,7 +102,7 @@
 ### 📈 3D Contribution Graph
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="syahreza-ferdian 3d contribution graph" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="syahreza-ferdian 3d contribution graph" />
 </div>
 
 ---
