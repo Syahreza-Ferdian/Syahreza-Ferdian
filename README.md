@@ -54,6 +54,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="css3" width="40" height="40"/>
 </p>
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="mongodb" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="postgresql" width="40" height="40"/>&nbsp;
@@ -64,6 +65,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" alt="vscode" width="40" height="40"/>
 </p>
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" title="Golang" alt="golang" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="java" width="40" height="40"/>&nbsp;
@@ -71,14 +73,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" alt="c" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="cpp" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" title="Rust" alt="rust" width="40" height="40"/>&nbsp;
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webassembly/webassembly-original.svg" title="WebAssembly" alt="webassembly" width="40" height="40"/>&nbsp; -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" title=".NET (learning)" alt="dotnet" width="40" height="40"/>
 </p>
 
+---
 
-<!-- <div align="center">
+### 🏆 GitHub Trophies
+
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Syahreza-Ferdian&theme=darkhub&column=7&margin-w=10&margin-h=10&no-bg=true" alt="syahreza-ferdian github trophies" />
-</div> -->
+</div>
 
 ---
 
@@ -95,10 +99,10 @@
 
 ---
 
-### 📈 Contribution Activity
+### 📈 3D Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syahreza-Ferdian&theme=react-dark&area=true&hide_border=true" alt="syahreza-ferdian contribution activity graph" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="syahreza-ferdian 3d contribution graph" />
 </div>
 
 ---
