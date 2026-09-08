@@ -81,7 +81,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Syahreza-Ferdian&theme=darkhub&column=7&margin-w=10&margin-h=10&no-bg=true" alt="syahreza-ferdian github trophies" />
+  <img src="./trophy.svg" alt="syahreza-ferdian github trophies" />
 </div>
 
 ---
@@ -102,7 +102,7 @@
 ### 📈 3D Contribution Graph
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="syahreza-ferdian 3d contribution graph" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="syahreza-ferdian 3d contribution graph" />
 </div>
 
 ---
