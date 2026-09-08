@@ -16,25 +16,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Create settings file
-        run: |
-          cat > settings.json << 'EOF'
-          {
-            "githubUserName": "Syahreza-Ferdian",
-            "startForeColor": "#45B3CB",
-            "endForeColor": "#6B4DE6",
-            "startBackColor": "#0D1117",
-            "endBackColor": "#161B22",
-            "cornerBackColor": "#0D1117",
-            "type": "normal"
-          }
-          EOF
-
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Syahreza-Ferdian
-          SETTING_JSON: settings.json
 
       - name: Commit & Push
         run: |
