@@ -89,8 +89,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Syahreza-Ferdian&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark" alt="syahreza-ferdian github stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=Syahreza-Ferdian&layout=compact&langs_count=6&theme=dark" alt="syahreza-ferdian top languages" />
+  <img height="165" src="./profile/stats.svg" alt="syahreza-ferdian github stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="syahreza-ferdian top languages" />
 </div>
 
 <div align="center">
