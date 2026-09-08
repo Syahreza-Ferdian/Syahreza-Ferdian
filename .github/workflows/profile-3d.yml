@@ -9,30 +9,44 @@ on:
       - main
 
 jobs:
-  generate-3d-contrib:
+  generate-stats-cards:
     runs-on: ubuntu-latest
-    name: Generate 3D Contribution Graph
+    name: Generate Stats Cards
+
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
 
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          USERNAME: Syahreza-Ferdian
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=Syahreza-Ferdian&show_icons=true&include_all_commits=true&rank_icon=percentile&theme=dark&bg_color=0D1117&hide_border=true
+          path: profile/stats.svg
+          token: ${{ secrets.GH_TOKEN }}
 
-      - name: Commit & Push 3D Contrib
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=Syahreza-Ferdian&layout=compact&langs_count=6&theme=dark&bg_color=0D1117&hide_border=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Commit & Push Stats Cards
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git diff --cached --quiet || git commit -m "chore: update 3D contribution graph"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --cached --quiet || git commit -m "chore: update stats cards"
           git push
 
   generate-trophy:
     runs-on: ubuntu-latest
     name: Generate GitHub Trophy SVG
-    needs: generate-3d-contrib
+    needs: generate-stats-cards
 
     steps:
       - uses: actions/checkout@v4
@@ -51,7 +65,31 @@ jobs:
       - name: Commit & Push Trophy
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add trophy.svg
           git diff --cached --quiet || git commit -m "chore: update github trophy"
+          git push
+
+  generate-3d-contrib:
+    runs-on: ubuntu-latest
+    name: Generate 3D Contribution Graph
+    needs: generate-trophy
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          USERNAME: Syahreza-Ferdian
+
+      - name: Commit & Push 3D Contrib
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "chore: update 3D contribution graph"
           git push
